@@ -1,0 +1,19 @@
+#map-shops {
+    height: 300px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+#address-map {
+    width: 400px;
+    height: 200px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    overflow: hidden;
+    border-radius: 4px;
+}
+#map-coordinates {
+    width: 300px;
+    margin-bottom: 10px;
+}

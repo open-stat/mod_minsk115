@@ -1,0 +1,10 @@
+{
+  "require": {
+    "guzzlehttp/guzzle": "7.4.*",
+    "longman/telegram-bot": "0.76.*",
+    "smottt/wideimage" : "1.1.4",
+    "opendataworld/cabinet115" : "dev-main",
+    "ext-exif": "*",
+    "ext-imagick": "*"
+  }
+}

@@ -1,0 +1,17 @@
+<div class="control">
+    <div class="input-control">
+        <input class="input input-sm" id="map-coordinates" type="text"
+               name="control[coordinates]" value="[COORDINATES]">
+        <div id="address-map"></div>
+    </div>
+</div>
+
+
+<script>
+    minsk115Index.addressMap.init({
+        mapContainer: $('#address-map')[0],
+        inputCoordinates: $('#map-coordinates')[0],
+        inputAddress: $('#main_minsk115address')[0],
+        apikey: '[APIKEY]',
+    });
+</script>
